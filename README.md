@@ -175,4 +175,7 @@ In the `GIF` below, we use `news-producer` Swagger UI to create one random news.
 To remove the Docker images created by this project, go to a terminal and, inside `springboot-aws-localstack-dynamodb-lambda-sns-sqs` root folder, run the script below
 ```
 ./remove-docker-images.sh
+
+## Disclaimer
+This is a project that @ivangfr had created. I merely forked to obtain an understanding of various AWS services 
 ```
